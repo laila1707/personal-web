@@ -63,3 +63,21 @@ nav ul a:hover:after{
     font-size: 15px;
     letter-spacing: 1px;
 }
+
+.about-page {
+    width: 40%;
+    padding-top: 100px;
+    margin-left: 20rem;
+    align-items: center;
+}
+
+.about-page h1 {
+    font-size: 60px;
+    letter-spacing: 1px;
+    color: #494234;
+}
+.about-page p{
+    margin-top: 10px;
+    font-size: 15px;
+    letter-spacing: 1px;
+}
