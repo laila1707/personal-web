@@ -97,7 +97,7 @@ nav ul a:hover:after{
     margin-bottom: 20px;
 }
 
-.text-img-ui {
+.text-img-1 {
     display: flex; 
     flex-wrap: wrap; 
     margin-bottom: 20px;
@@ -118,7 +118,7 @@ nav ul a:hover:after{
   
   img {
     border-radius: 5px 5px 0 0;
-    width: 300px;
+    width: 303px;
   }
   
   .container {
@@ -135,4 +135,10 @@ nav ul a:hover:after{
     margin-top: 10px;
     font-size: 15px;
     letter-spacing: 1px;
+}
+
+.text-img-2 {
+    display: flex; 
+    flex-wrap: wrap; 
+    margin-bottom: 20px;
 }
