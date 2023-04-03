@@ -97,7 +97,7 @@ nav ul a:hover:after{
     margin-bottom: 20px;
 }
 
-.text-img {
+.text-img-ui {
     display: flex; 
     flex-wrap: wrap; 
     margin-bottom: 20px;
