@@ -124,9 +124,9 @@ nav ul a:hover:after{
   
   img {
     border-radius: 5px 5px 0 0;
-    width: 303px;
+    width: 100%;
   }
-  
+
   .container {
     letter-spacing: 1px;
     margin-top: 20px;
