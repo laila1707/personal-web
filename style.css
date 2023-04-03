@@ -72,7 +72,7 @@ nav ul a:hover:after{
 }
 
 .about-page h1 {
-    font-size: 60px;
+    font-size: 40px;
     letter-spacing: 1px;
     color: #494234;
 }
@@ -81,3 +81,49 @@ nav ul a:hover:after{
     font-size: 15px;
     letter-spacing: 1px;
 }
+
+.project-page {
+    width: 60%;
+    padding-top: 100px;
+    margin-left: 20rem;
+    align-items: center;
+    
+}
+
+.project-page h1 {
+    font-size: 40px;
+    letter-spacing: 1px;
+    color: #494234;
+    margin-bottom: 20px;
+}
+
+.text-img {
+    display: flex; 
+    flex-wrap: wrap; 
+    margin-bottom: 20px;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 60%;
+    border-radius: 5px;
+    flex: 0 0 40%; 
+    margin-right: 20px;
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  img {
+    border-radius: 5px 5px 0 0;
+    width: 300px;
+  }
+  
+  .container {
+    letter-spacing: 1px;
+    margin-top: 20px;
+    flex: 1;
+  }
+
