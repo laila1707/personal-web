@@ -160,3 +160,9 @@ nav ul a:hover:after{
     flex-wrap: wrap; 
     margin-bottom: 30px;
 }
+
+.text-img-5 {
+    display: flex; 
+    flex-wrap: wrap; 
+    margin-bottom: 30px;
+}
