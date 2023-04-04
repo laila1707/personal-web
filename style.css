@@ -72,11 +72,51 @@ nav ul a:hover:after{
 }
 
 .about-page {
-    width: 40%;
+    width: 50%;
     padding-top: 100px;
-    margin-left: 20rem;
+    margin-left: 15rem;
     align-items: center;
     display: none;
+}
+
+.about-page h1 {
+    margin-bottom: 20px;
+}
+
+.about-me {
+    display: flex; 
+    flex-wrap: wrap;
+}
+
+.img-me {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+    flex: 0 0 60%; 
+    margin-right: 30px;
+
+  }
+
+  .text-me {
+    letter-spacing: 1px;
+    margin-top: 20px;
+    flex: 1;
+  }
+
+.text-me h3{
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.text-me p{
+    margin-top: 10px;
+    font-size: 15px;
+    letter-spacing: 1px;
+    width: 200%;
+} 
+
+.text-me ul{
+    margin-left: 15px;
+    margin-top: 10px;
 }
 
 .about-page:target{
@@ -87,17 +127,6 @@ nav ul a:hover:after{
 }
 .close {
     display: none;
-}
-
-.about-page h1 {
-    font-size: 40px;
-    letter-spacing: 1px;
-    color: #494234;
-}
-.about-page p{
-    margin-top: 10px;
-    font-size: 15px;
-    letter-spacing: 1px;
 }
 
 .project-page {
