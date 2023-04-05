@@ -57,7 +57,7 @@ nav ul a:hover:after{
     padding-top: 100px;
     margin-left: 20rem;
     align-items: center;
-   
+    
 }
 
 .main-text h1 {
@@ -280,7 +280,6 @@ nav ul a:hover:after{
     display: none;
     margin-left: 15rem;
     margin-top: 90px;
-    margin-bottom: 50px;
 }
 
 .contact-page:target{
@@ -414,14 +413,18 @@ textarea {
     }
 }
 
-
+footer{
+    padding-top: 25%;
+}
 .footer-content{
     width: 100%;
     position: relative;
     background: #66d2e2;
     height: 200px;
     text-align: center;
+    
 }
+
 .footer-content h1{
     margin-bottom: 30px;
     color: #ffffff;
@@ -450,7 +453,6 @@ textarea {
 
 .fixed-footer {
     width: 100%;
-    
     position: relative;
     background: #00b4cf;
     margin: 0 10px 10px 0;
@@ -462,3 +464,4 @@ textarea {
   .fixed-footer {
     bottom: 0;
   }
+
