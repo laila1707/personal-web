@@ -332,6 +332,19 @@ nav ul a:hover:after{
     font-size: 0.9rem;
 }
 
+.left-contact a{
+    color: #494234;
+    text-decoration: none;
+}
+
+.left-contact a{
+    color: #494234;
+}
+.left-contact a:hover{
+    color: blue;
+    font-size:large;
+}
+
 h2 {
     font-size: 2rem;
     margin-bottom: 1rem;
